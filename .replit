@@ -1,0 +1,2 @@
+run = 'npm --prefix ./road-to-lens-week10 run dev'
+entrypoint = './road-to-lens-week10/pages/index.jsx'
